@@ -44,21 +44,11 @@ I'm a passionate **Generative AI Specialist** with a strong foundation in machin
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-abhishekkk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-abhishekkk&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 🐦 [Twitter/X](will add on sometime)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-43a2331b1/)
-- 🌐 [Portfolio](https://yourwebsite.com)
+- 🌐 [Portfolio](will add on sometime)
 
 ---
 
