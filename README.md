@@ -48,7 +48,7 @@ I'm a passionate **Generative AI Specialist** with a strong foundation in machin
 
 - 🐦 [Twitter/X](will add on sometime)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-43a2331b1/)
-- 🌐 [Portfolio](will add on sometime)
+- 🌐 [Portfolio](https://i-abhishekkk.github.io/MyCareerHub/)
 
 ---
 
